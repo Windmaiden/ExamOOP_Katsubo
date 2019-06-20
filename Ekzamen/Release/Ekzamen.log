@@ -1,0 +1,19 @@
+﻿Build started 21.06.2019 0:01:38.
+     1>Project "C:\Users\Чемен\Documents\visual studio 2012\Projects\Ekzamen\Ekzamen\Ekzamen.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         P:\programs\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Freelancer.cpp
+         Freelancer.cpp
+     1>c:\users\чемен\documents\visual studio 2012\projects\ekzamen\ekzamen\MyForm1.h(515): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         P:\programs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Чемен\Documents\Visual Studio 2012\Projects\Ekzamen\Release\Ekzamen.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Ekzamen.Derevo.resources /ASSEMBLYRESOURCE:Release\Ekzamen.Freelancer.resources /ASSEMBLYRESOURCE:Release\Ekzamen.MyForm1.resources /ASSEMBLYRESOURCE:Release\Ekzamen.Spisok.resources /ASSEMBLYRESOURCE:Release\Ekzamen.Tables.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Чемен\Documents\Visual Studio 2012\Projects\Ekzamen\Release\Ekzamen.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\Derevo.obj
+         Release\Freelancer.obj
+         Release\MyForm1.obj
+         Release\Spisok.obj
+         Release\Tables.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Ekzamen.vcxproj -> C:\Users\Чемен\Documents\Visual Studio 2012\Projects\Ekzamen\Release\Ekzamen.exe
+     1>Done Building Project "C:\Users\Чемен\Documents\visual studio 2012\Projects\Ekzamen\Ekzamen\Ekzamen.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.14
